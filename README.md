@@ -1,6 +1,3 @@
-#  Movie organizer.
-
-
 ## How to run
 
 ```
