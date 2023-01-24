@@ -1,1 +1,9 @@
-# Movie-task
+#  Movie organizer.
+
+
+## How to run
+
+```
+npm install
+npm start
+```
